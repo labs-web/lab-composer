@@ -1,23 +1,23 @@
 ---
 layout: default
-chapitre: structure des dossiers
+chapitre: Backlog
 order: 2
 ---
+## Backlog
+### structure des dossiers
+![structure des dossiers](/lab-deploy-laravel/2.backlog/images/Structure-des-dossiers.jpg)
 
-# structure des dossiers
 <!-- note -->
 - DOCS
   - Index.md
   - Introduction
     - images
     - Introduction.md
-  - creation de app
-    - creation-de-app.md
   - Conclusion
     - images
     - Conclusion.md
   - Backlog
-    - backlog.md
+    - Structure_de_dossier
   -  Rapport.md
   -  Présentation.html
 <!-- new slide -->

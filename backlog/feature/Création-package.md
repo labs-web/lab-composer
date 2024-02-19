@@ -6,4 +6,5 @@
 - Création d'un package qui réaliser la somme de deux valeur
 
 ## Livrable
-- /docs/feature/.md 
+- /backlog/feature/exposé-composer.md
+- /docs/feature/exposé-composer/exposé-composer.md

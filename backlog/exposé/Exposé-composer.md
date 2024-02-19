@@ -5,5 +5,5 @@
 - Rédiger un exposer pour présenter le gestionnaire de package poue php ( composer )
 
 ## Livrable
-- /backlog/chapitre/Auto-formation.md
-- /docs/Auto-formation/Auto-formation.md
+- /backlog/exposé/Exposé-composer.md
+- /docs/exposé-composer/* 

@@ -5,4 +5,5 @@
 - Trouver une autoformation sur composer 
 
 ## Livrable
-- /docs/feature/.md
+- /backlog/chapitre/Auto-formation.md
+- /docs/Auto-formation/Auto-formation.md

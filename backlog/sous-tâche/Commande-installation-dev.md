@@ -9,4 +9,6 @@ Exemple de commande
 
 
 ## Livrable
-- /docs/feature/.md
+
+- /backlog/sous-tâche/Commande-installation-dev.md
+- /docs/Commande-installation-dev/*

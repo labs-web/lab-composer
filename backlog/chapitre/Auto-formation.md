@@ -6,4 +6,4 @@
 
 ## Livrable
 - /backlog/chapitre/Auto-formation.md
-- /docs/Auto-formation/Auto-formation.md
+- /docs/Auto-formation/Auto-formation.md 

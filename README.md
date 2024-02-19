@@ -9,14 +9,15 @@
 Le backlog est une liste ordonées des tâches 
 
 - **chapitre** 
-  - [1.auto-formation.md](./Backlog/chapitre/1.auto-formation.md) 
+  - [Auto-formation.md](./Backlog/chapitre/Auto-formation.md) 
 - **exposé** 
-  - [1.exposé-composer.md](./Backlog/exposé/1.exposé-composer.md) 
+  - [Exposé-composer.md](./Backlog/exposé/Exposé-composer.md) 
 - **feature** 
-  - [1.création-package.md](./Backlog/feature/1.création-package.md) 
+  - [Création-package.md](./Backlog/feature/Création-package.md) 
 - **sous-tâche** 
-  - [1.commande-installation-dev.1.md](./Backlog/sous-tâche/1.commande-installation-dev.1.md) 
-  - [1.init-rapport.98.md](./Backlog/sous-tâche/1.init-rapport.98.md) 
+  - [Commande-installation-dev.md](./Backlog/sous-tâche/Commande-installation-dev.md) 
+  - [Init-lab.md](./Backlog/sous-tâche/Init-lab.md) 
+- **thème** 
 ## Livrables 
 
  
@@ -30,5 +31,5 @@ Le backlog est une liste ordonées des tâches
  
 
 - [Autoformation](#) 
-- [Rapport](https://labs-web.github.io/lab-starter/rapport.html) 
+- [Rapport](https://labs-web.github.io/lab-composer/rapport.html) 
 

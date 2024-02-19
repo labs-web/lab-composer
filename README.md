@@ -9,15 +9,18 @@
 Le backlog est une liste ordonées des tâches 
 
 - **chapitre** 
-  - [Auto-formation.md](./Backlog/chapitre/Auto-formation.md) 
+  - [0.Auto-formation.5.md](./Backlog/chapitre/0.Auto-formation.5.md) 
 - **exposé** 
-  - [Exposé-composer.md](./Backlog/exposé/Exposé-composer.md) 
+  - [0.Exposé-composer.7.md](./Backlog/exposé/0.Exposé-composer.7.md) 
 - **feature** 
-  - [Création-package.md](./Backlog/feature/Création-package.md) 
+  - [0.backlog.10.md](./Backlog/feature/0.backlog.10.md) 
+  - [0.Création-package.8.md](./Backlog/feature/0.Création-package.8.md) 
+  - [0.init-présentation.12.md](./Backlog/feature/0.init-présentation.12.md) 
 - **sous-tâche** 
-  - [Commande-installation-dev.md](./Backlog/sous-tâche/Commande-installation-dev.md) 
-  - [Init-lab.md](./Backlog/sous-tâche/Init-lab.md) 
+  - [0.Commande-installation-dev.1.md](./Backlog/sous-tâche/0.Commande-installation-dev.1.md) 
+  - [0.Init-lab.11.md](./Backlog/sous-tâche/0.Init-lab.11.md) 
 - **thème** 
+  - [0.lab-composer.2.md](./Backlog/thème/0.lab-composer.2.md) 
 ## Livrables 
 
  

@@ -13,12 +13,8 @@ order: 1
 <!-- new slide -->
 
 ## Gestion des Versionsr
-![Concepts Fondamentaux de Composer](./images/consept.png)
+![Concepts Fondamentaux de Composer](./images/Gestion-des-Versions.png)
 
-<!-- new slide -->
-
-## Gestion des Versions
-![Versions](./images/Gestion des Versions.png)
 
 <!-- new slide -->
 

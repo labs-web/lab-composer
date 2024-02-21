@@ -5,7 +5,7 @@ order: 2
 ---
 ## Backlog
 ### structure des dossiers
-![structure des dossiers](/lab-composer/2.backlog/images/Structure-des-dossiers.jpg)
+![structure des dossiers](./images/Structure-des-dossiers.jpg)
 
 <!-- note -->
 - DOCS

@@ -1,5 +1,5 @@
 # Build settings
-# baseurl: "/besoin"
+baseurl: "/lab-composer"
 
 # lsi: false
 # safe: true

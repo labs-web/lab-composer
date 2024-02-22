@@ -7,19 +7,24 @@ order: 1
 
 <!-- new slide -->
 
+
 ## Introduction
 ![composer](./images/composer.png)
 
 <!-- new slide -->
 
 ## Gestion des Versionsr
-![Concepts Fondamentaux de Composer](./images/Gestion-des-Versions.png)
+![Concepts Fondamentaux de Composer](./images/consept.png)
 
+<!-- new slide -->
+
+## Gestion des Versions
+![Versions](./images/Gestion des Versions.png)
 
 <!-- new slide -->
 
 ## Packagist : Registre de Packages
-![packagist](./images/packagist.png)
+![packagist](/lab-composer/1.exposé-composer.7/images/packagist.png)
 
 <!-- new slide -->
 

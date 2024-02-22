@@ -7,6 +7,7 @@ order: 1
 
 <!-- new slide -->
 
+
 ## Introduction
 ![composer](./images/composer.png)
 
@@ -23,7 +24,7 @@ order: 1
 <!-- new slide -->
 
 ## Packagist : Registre de Packages
-![packagist](./images/packagist.png)
+![packagist](/lab-composer/1.exposé-composer.7/images/packagist.png)
 
 <!-- new slide -->
 

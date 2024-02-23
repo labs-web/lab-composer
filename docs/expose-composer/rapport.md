@@ -24,7 +24,7 @@ Comprendre les besoins et les perspectives des utilisateurs concernés par le pr
 *figure: Installation des Dépendances*
 3. Autoloading Automatique
 Composer génère automatiquement un fichier d'autoloading (vendor/autoload.php) qui simplifie l'inclusion des classes dans le code.
-![packagist](./images/Autoloading Automatique.png){:width="700px"}
+![Autoloading](./images/Autoloading Automatique.png){:width="700px"}
 *figure: Autoloading Automatique*
 4. Mise à Jour des Dépendances
 La commande composer update vérifie les dernières versions compatibles des dépendances et met à jour le projet en conséquence.
@@ -42,16 +42,10 @@ Composer utilise le système de gestion sémantique des versions (SemVer) pour g
 Packagist est le principal registre de packages pour Composer. Lorsque vous spécifiez une dépendance, Composer recherche cette dernière sur Packagist pour la télécharger et l'installer.
 
 
-##  Scripts Composer
-![Prototype](./images/script.png){:width="500px"}
-*figure: Prototype*
-
-Composer permet l'exécution de scripts personnalisés à des étapes spécifiques, comme après l'installation ou la mise à jour des dépendances. Cela offre une flexibilité pour l'automatisation de certaines tâches.
-
 
 ## Conclusion
-![Test](./images/composer.png){:width="500px"}
-*figure: Test*
+![Conclusion](./images/composer.png){:width="500px"}
+*figure: Conclusion*
 
-Tester les prototypes auprès d’utilisateurs réels. Les premières maquettes comportent nécessairement des erreurs, qu’il faut identifier au plus vite et dont il faut ensuite tirer des enseignements.
+i fin de ce lab tu doi capable de réaliser vous propre packages avec composer et le publié en pluse de utilisé des pacages via composer 
 

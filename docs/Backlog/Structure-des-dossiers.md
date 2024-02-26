@@ -3,21 +3,11 @@ layout: default
 chapitre: Backlog
 order: 2
 ---
-## Backlog
-### structure des dossiers
-![structure des dossiers](./images/Structure-des-dossiers.jpg)
+## Compétence cible 
+
+![compétence cible](./images/Compétences.png)
 
 <!-- note -->
-- DOCS
-  - Index.md
-  - Introduction
-    - images
-    - Introduction.md
-  - Conclusion
-    - images
-    - Conclusion.md
-  - Backlog
-    - Structure_de_dossier
-  -  Rapport.md
-  -  Présentation.html
+après  la réalisation de ce lab nous espèrent de atteindre le niveau adapter de la compétence **Backend** et imiter sur la compétence **collaboration**
 <!-- new slide -->
+
